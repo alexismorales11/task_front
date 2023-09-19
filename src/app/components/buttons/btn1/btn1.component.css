@@ -1,0 +1,11 @@
+.btn-1 {
+    max-width: 150px;
+    width: 100%;
+    min-height: 30px;
+    color: #fff;
+    background: #193782;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
